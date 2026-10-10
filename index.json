@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "fetchling",
+  "versions": [
+    {
+      "commit": "0389e6766c4310bfcf42e8d117f824b64422f1fa",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:24:29.651949+00:00"
+    }
+  ]
+}
